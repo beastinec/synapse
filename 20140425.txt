@@ -1,0 +1,24 @@
+﻿#automatic generated on 2014/04/25.
+issues today!
+issue_2014042501:
+ - 符号是用来助记的么？
+ - 是的，对于有某些共同知识的人来说。
+
+issue_2014042502:
+ - what's behind the scene?
+
+issue_2014042503:
+ - 视觉给我们带来的……？
+
+issue_2014042504:
+ - Are you enjoying the time of BOXX?
+
+issue_2014042505:
+ - 我们不想伤害什么？
+ - 那些会被我们伤害的事物。
+
+issue_2014042506:
+ - 值得：满足感->量化->唯心主义。
+
+issue_2014042507:
+ - 猜测别人的想法：激发自己想法的矛盾。
